@@ -1,0 +1,19 @@
+{
+  "name": "unique-tournament-counting",
+  "version": "1.0.0",
+  "description": "counting of unique tournaments by HTML parsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "unique-tournaments"
+  },
+  "keywords": [
+    "HTML",
+    "parsing"
+  ],
+  "author": "Viacheslav Smirnov",
+  "license": "ISC"
+}
